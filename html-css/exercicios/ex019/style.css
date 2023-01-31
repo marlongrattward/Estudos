@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color:#F2668B;
+}
+h1 {
+    color: #025E73;
+}
+h1#principal {
+    text-align: center;
+    background-color: #011F26;
+    
+}
+h2 {
+    color: #BFB78F;
+}
+.basico {
+    text-align: left;
+    color: #026873;
+}
+.intermediario {
+    text-align: left;
+    color: #03A688;
+}
+.avançado {
+    text-align: left;
+    color: #011F26;
+}
+p {
+    color: black;
+    text-align: justify;
+}
