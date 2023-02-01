@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body{
+    background-image: url(imagens/wallpaper004.jpg);
+    
+    
+}
+
+div.quadrado{
+    display: inline-block;
+    margin: 5px;
+    width: 300px;
+    height: 300px;
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+    
+}
+div#q1{
+    background-color: #747E7E;
+    
+
+}
+div#q2{ background-image: linear-gradient(to bottom,#FF5F5D,#3F7C85);
+    
+
+}
+div#q3{
+    background-image: url(imagens/pattern003.png);
+    
+
+}
+div#q4{
+    background-image: linear-gradient(to left,#00CCBF,#72F2EB);
+
+}
+div#q5{
+    background-color: #3F7C85;
+
+}
+div#q6{
+  background-image: url(imagens/pexels-pixabay-316080.jpg);
+;
+
+}
